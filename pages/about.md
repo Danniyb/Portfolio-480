@@ -4,8 +4,9 @@ date: 2019-07-09
 menu:
   main:
     weight: 999
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+A﻿ short resume Portfolio by Daniel Bekele
 
 ## How to use?
 
